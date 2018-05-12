@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25888'
     url: http://www.gutenberg.org/2009/agents/25888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23509#The-Beast-of-Space
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-11-16'
 gutenberg_type: Text
